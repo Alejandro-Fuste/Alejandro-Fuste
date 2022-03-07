@@ -19,8 +19,3 @@ I'm a software engineer at Revature. I'm passionate about creating technology to
 ##  💻 Testing Technologies
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-
-# 💻 Technologies
-
-
-<img src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white' alt='heroku'> <img src='https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white' alt='iOS'> <img src='https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white' alt='Shell Scripting'> <img src='https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white' alt='markdown'> <img src='https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white' alt='Zoom'> <img src='https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white' alt='Slack'> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='Github'>
