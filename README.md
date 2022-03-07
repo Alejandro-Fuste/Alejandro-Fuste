@@ -2,7 +2,7 @@
 
 <img src='./banner.gif' alt='banner'>
 
-I'm a software engineer at Revature. I'm passionate about creating technology to elevate people and make life a bit easier. Some technologies I enjoy working with include Python, Javascript, MongoDB, ExpressJS, ReactJS, NodeJS, MySQL, GraphQL and Apollo Server. I graduated from the University of Central Florida, and I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.
+I'm a software engineer at Revature. I'm passionate about creating technology to elevate people and make life a bit easier. Some technologies I enjoy working with include Java, Python, Javascript, MongoDB, ExpressJS, ReactJS, NodeJS, MySQL, GraphQL and Apollo Server. I graduated from the University of Central Florida, and I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.
 
 # 💻 Technologies
 
